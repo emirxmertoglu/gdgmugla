@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site":"myaurapp",
+    "site":"gdgmugla",
     "public": "dist",
     "rewrites": [ {
         "source": "**",
